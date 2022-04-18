@@ -65,10 +65,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dcode-denpa/bitch-boot.git"
+    "url": "git+https://github.com/Whats-bot/dog.git"
   },
   "bugs": {
-    "url": "https://github.com/dcode-denpa/bitch-boot/issues"
+    "url": "https://github.com/Whats-bot/dog/issues"
   },
-  "homepage": "https://github.com/dcode-denpa/bitch-boot#readme"
+  "homepage": "https://github.com/Whats-bot/dog#readme"
 }
